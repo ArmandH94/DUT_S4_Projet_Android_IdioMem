@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">IdioMem</string>
+    <string name="title_directory">Annuaire</string>
+    <string name="title_insertion">Insertion</string>
+    <string name="title_quiz">Quiz</string>
+    <string name="title_question">Question</string>
+    <string name="title_edit">Edition</string>
+    <string name="TextQuizTopChoise">Teste tes connaissances avec un Quiz sur 10 mots aléatoires</string>
+    <string name="TextQuizDownChoise">Créer-toi un challenge et découvre tes limites</string>
+    <string name="quiz_choise_rapide">Quiz Rapide</string>
+    <string name="quiz_choise_perso">Quiz Personnnalisé</string>
+    <string name="TextInsertionButton">Valider</string>
+    <string name="TextFrançais">FRANÇAIS</string>
+    <string name="Modification">Edit</string>
+    <string name="valider">Valider</string>
+    <string name="TextQuizChoiseNbQuestion">Choisissez le nombre de question pour votre Quiz Personnalisé</string>
+    <string name="EnterNbWord">Entrez un nombre ici</string>
+    <string name="endQuestion">TERMINER</string>
+    <string name="exportText">Exporter base de données</string>
+    <string name="importText">Importer base de données</string>
+    <string name="editer">Editer</string>
+    <string name="suivant">SUIVANT</string>
+</resources>

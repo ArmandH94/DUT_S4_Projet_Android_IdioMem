@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_directory">
+
+    <fragment
+        android:id="@+id/navigation_directory"
+        android:name="com.iutmontreuil.idiomem.fragment.DirectoryFragment"
+        android:label="@string/title_directory"
+        tools:layout="@layout/fragment_directory" />
+
+    <fragment
+        android:id="@+id/navigation_insertion"
+        android:name="com.iutmontreuil.idiomem.fragment.InsertionFragment"
+        android:label="@string/title_insertion"
+        tools:layout="@layout/fragment_insertion" />
+
+    <fragment
+        android:id="@+id/navigation_quiz"
+        android:name="com.iutmontreuil.idiomem.fragment.QuizFragment"
+        android:label="@string/title_quiz"
+        tools:layout="@layout/fragment_quiz" />
+</navigation>

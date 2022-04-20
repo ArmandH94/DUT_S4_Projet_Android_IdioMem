@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BEE0E8</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorTextQuiz">#888888</color>
+    <color name="colorButtonQuiz">#F36C70</color>
+    <color name="colorButtonTextWhite">#FFFFFF</color>
+    <color name="colorNavigation">#83BABA</color>
+    <color name="colorBackGroundApp">#E8E0E8</color>
+    <color name="colorTopTittle">#008577</color>
+    <color name="colorTextInsertion">#0097B0</color>
+    <color name="colorButtonIsertion">#53DE92</color>
+    <color name="colorTextIsertionHighLight">#7cff88</color>
+    <color name="colorBorder">#B0B0B9</color>
+    <color name="colorButtonDirectory">#80C4BC</color>
+</resources>
